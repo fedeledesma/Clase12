@@ -1,0 +1,30 @@
+.estilo1{
+    background-color: rgb(158, 88, 1);
+    height: 250px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.text2{    
+    text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5), 0px 0px 20px #FF8400;
+    color: #444242;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.degra{
+    background: #FF7900;
+    background: -moz-linear-gradient(cima, #FF7900 0%, #FDFFF5 50%, #FF7900 100%);
+    background: -webkit-linear-gradient(cima, #FF7900 0%, #FDFFF5 50%, #FF7900 100%);
+    background: linear-gradient(to right, #FF7900 0%, #FDFFF5 50%, #FF7900 100%);
+}
+
+.bordes{
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
